@@ -1,3 +1,4 @@
+// Read a string and replace only vowels with a specific letter to perform encoding operation.
 package com.stringhandling;
 
 import java.util.Scanner;
